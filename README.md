@@ -1,1 +1,2 @@
-# Sanmple_CDAlbam
+# Sample_CDAlbam
+　CDアルバム紹介ページのサンプルになります。
